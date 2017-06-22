@@ -17,7 +17,7 @@ public class Ressource {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        new JFrame().setVisible(true);
+        new JFrame().setVisible(true); //Mouai
     }
     
 }
