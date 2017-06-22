@@ -5,6 +5,8 @@
  */
 package ressource;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author jeff
@@ -15,7 +17,7 @@ public class Ressource {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        new JFrame().setVisible(true);
     }
     
 }
