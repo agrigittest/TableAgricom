@@ -19,7 +19,7 @@ public class Ressource {
      */
     public static void main(String[] args) {
         JFrame jframe = new JFrame();
-        jframe.add(new JTextField("toto"));
+        jframe.add(new JTextField("titi"));
         jframe.setSize(800, 600);
         jframe.setVisible(true); //Mouai
         
