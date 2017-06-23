@@ -22,6 +22,7 @@ public class Ressource {
         JFrame jframe = new JFrame();
         jframe.setLayout(new GridLayout());
         jframe.add(new JTextField("titi")); // Ajout du composant TITI
+        jframe.add(new JTextField("Gros Minet")); // Ajout du composant TITI
         jframe.setSize(800, 600);
         jframe.setVisible(true); //Mouai
         
