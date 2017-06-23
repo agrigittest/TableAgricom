@@ -6,6 +6,7 @@
 package ressource;
 
 import javax.swing.JFrame;
+import javax.swing.JTextField;
 
 /**
  *
@@ -18,8 +19,10 @@ public class Ressource {
      */
     public static void main(String[] args) {
         JFrame jframe = new JFrame();
+        jframe.add(new JTextField());
         jframe.setSize(800, 600);
         jframe.setVisible(true); //Mouai
+        
     }
     
 }
