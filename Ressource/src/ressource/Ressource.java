@@ -19,7 +19,7 @@ public class Ressource {
      */
     public static void main(String[] args) {
         JFrame jframe = new JFrame();
-        jframe.add(new JTextField("titi"));
+        jframe.add(new JTextField("titi")); // Ajout du composant TITI
         jframe.setSize(800, 600);
         jframe.setVisible(true); //Mouai
         
